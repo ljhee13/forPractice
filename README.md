@@ -1,2 +1,0 @@
-# forPractice
-To practice git
